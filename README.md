@@ -15,4 +15,5 @@ Survival was strongly shaped by gender, class, fare, age, and family size. Women
 
 Recommendation
 Implement gender- and class-aware safety protocols, differentiated safety briefings for families vs. solo travelers, clearer communication of premium-tier safety benefits, and invest in more complete passenger data collection.
-![Dashboard](Titanic Dashboard.png)
+
+![Titanic Analysis Dashboard](Titanic Dashboard.png)
