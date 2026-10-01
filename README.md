@@ -8,11 +8,9 @@ Survival count by passenger class
 Correlation heatmap of numerical features
 Survival rate by number of siblings/spouses aboard
 Overall age distribution
-![Dashboard](images/TitanicDashboard.png)
-
-
 Key Insight
 Survival was strongly shaped by gender, class, fare, age, and family size. Women and 1st/2nd-class passengers had the highest survival rates, while 3rd-class men fared worst.
 
 Recommendation
 Implement gender- and class-aware safety protocols, differentiated safety briefings for families vs. solo travelers, clearer communication of premium-tier safety benefits, and invest in more complete passenger data collection.
+![Dashboard](TitanicDashboard.png)
