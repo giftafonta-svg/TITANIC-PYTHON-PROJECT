@@ -8,6 +8,7 @@ Survival count by passenger class
 Correlation heatmap of numerical features
 Survival rate by number of siblings/spouses aboard
 Overall age distribution
+![Dashboard](images/TitanicDashboard.png)
 
 
 Key Insight
